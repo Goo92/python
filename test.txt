@@ -1,0 +1,12 @@
+abc
+cde
+fgh
+you
+are
+my friend
+test
+again
+now
+this
+is 
+another test
